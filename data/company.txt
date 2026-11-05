@@ -1,0 +1,91 @@
+
+COMPANY NAME: WORKSBOT
+
+DOCUMENT TITLE:
+Worksbot Technical Training Knowledge Base
+
+OVERVIEW:
+This document contains technical training information and
+project-related knowledge associated with Worksbot.
+
+TECHNICAL TRAINING:
+The training topics include Python programming, FastAPI,
+REST API development, artificial intelligence integration,
+database operations, and frontend development.
+
+PROJECT 1: MULTI-MODEL AI CHATBOT
+
+The Multi-Model AI Chatbot is a full-stack application
+that integrates multiple AI language model providers.
+
+Technologies:
+- Python
+- FastAPI
+- Next.js
+- React
+- Tailwind CSS
+- SQLite
+- Google Gemini
+- Groq
+
+Main Features:
+1. Integration with multiple AI providers.
+2. Comparison of AI-generated responses.
+3. Chat API development.
+4. Comparison history storage.
+5. User management.
+6. Create, Read, Update, and Delete operations.
+
+PROJECT 2: RETRIEVAL-AUGMENTED GENERATION (RAG)
+
+The RAG project implements a document-based question
+answering application using FastAPI.
+
+Technologies:
+- Python
+- FastAPI
+- LangChain
+- ChromaDB
+- Google Gemini
+- Google Gemini Embeddings
+
+RAG Workflow:
+1. Load company documents.
+2. Split documents into smaller chunks.
+3. Convert text chunks into numerical embeddings.
+4. Store embeddings in ChromaDB.
+5. Retrieve relevant documents using similarity search.
+6. Create context from retrieved documents.
+7. Generate answers using the Gemini language model.
+8. Expose the functionality through a FastAPI POST endpoint.
+
+IMPORTANT CONCEPTS:
+
+FastAPI:
+A Python framework used to develop APIs.
+
+LangChain:
+A framework used to build applications powered by
+language models and document retrieval.
+
+ChromaDB:
+A vector database used to store and retrieve embeddings.
+
+Embeddings:
+Numerical representations of text that capture
+semantic meaning.
+
+RAG:
+Retrieval-Augmented Generation combines information
+retrieval with language model generation.
+
+POST METHOD:
+An HTTP method used to send data to an API endpoint.
+
+CRUD:
+Create, Read, Update, and Delete operations.
+
+NOTE:
+This document is a starter training knowledge base.
+Official company details, policies, management information,
+and services should be added only after verification.
