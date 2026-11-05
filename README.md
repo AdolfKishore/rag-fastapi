@@ -67,8 +67,8 @@ Note: The `.env`, `venv/`, and `chroma_db/` directories are excluded from GitHub
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
-cd RAG-B3
+git clone https://github.com/AdolfKishore/rag-fastapi.git
+cd rag-fastapi
 ```
 
 ### 2. Create a virtual environment
